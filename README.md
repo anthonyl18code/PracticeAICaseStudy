@@ -1,16 +1,31 @@
-## Results
+# Anthony Longarzo Project 1 
 
-* What has been the business impact of this company so far? Shorter scan times enable centers to accommodate more patients, including urgent cases. Sharper images allow radiologists to more effectively diagnose abnormalities. Reduced scan times can provide a better experience for patients with anxiety, claustrophobia, or physical limitations. AI-powered image reconstruction allows for increased scan volume without extending operating hours. Efficiencies can lead to revenue growth.
+## Overview and Origin
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? Exposure time, how many patients they can see in a day. They are performing the best with this new cutting edge AI based technology.
+* AIRS Medical
 
-* How is your company performing relative to competitors in the same field? Up to 50% reduction in exposure time relative to top companies in this field. 
+* When was the company incorporated? 2018
 
-## Recommendations
+* Who are the founders of the company? Joanna Kwon & Jingu Lee
 
+* How did the idea for the company (or project) come about? 
 
-* Why do you think that offering this product or service would benefit the company? One-stop shop for all specialties in surgery. Give surgeons idea of what needs to be done in the OR. Speed up pre-op planning for surgeons so they can move on to more patients.
+* How is the company funded? How much funding have they received? Series C- 0 million
 
-* What technologies would this additional product or service utilize? AI
+## Business Activities
 
-* Why are these technologies appropriate for your solution? AI is already used in pre-op planning, if this is incorporated the surgeons, facilities and patients will all receive the benefits.
+* What specific problem is the company or project trying to solve? Healthcare is a reactive industry, they are trying to make it a proactive industry by detecting potential health risks earlier, personalized wellness strategies, and enhance lives around the world.
+
+* Who is the company's intended customer? Is there any information about the market size of this set of customers? All patients- recently cleared by the FDA in the United States for brain, spine, knee, hip, shoulder, and ankle. 
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) Reduces scan time by 50% while image quality is highest in the market. This allows not only for better patient outcomes, but more patients to be seen at clinic thus increasing profitability for clinics.
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+## Landscape
+
+* What field is the company in? Healthcare
+
+* What have been the major trends and innovations of this field over the last 5&ndash;10 years? AI assisted pre and intra operative, 3d custom implants, AI driven data analysis to determine patient outcomes.
+
+* What are the other major companies in this field?- Phillips, GE, Siemens, Cannon Medical
